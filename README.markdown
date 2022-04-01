@@ -1,8 +1,8 @@
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
-### new changes
+## new changes
 ## git commit
 ## Building the project#
-# my change
+# my change.
 #another change
 #webhook in github
 #corrected on jenkijns
